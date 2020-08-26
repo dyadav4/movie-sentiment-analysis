@@ -1,4 +1,4 @@
-# movie-sentiment-analysis
+<h1>Movie Sentiment Analysis</h1>
 
 This is a kaggle in class competition project where movie reviews has to be classified as positive or negative. (https://www.kaggle.com/c/homl2020imdb)
 
